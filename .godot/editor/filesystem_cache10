@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1757826598
+::res://::1757830396
 Dead Tree.glb::PackedScene/PackedScene::1490248714579228192::1757784941::1757784944::1::::<><><>0<>0<>9f30ef0a010719c84fc36d91c7eb9f42<>res://.godot/imported/Dead Tree.glb-dec30424cca4bccc80294635cd88f4b6.scn::uid://c5suy1dc6dr0b::::res://Dead Tree_Bark_DeadTree.png<>uid://gpsi86tbyni::::res://Dead Tree_Bark_DeadTree_Normal.png
 Dead Tree_Bark_DeadTree.png::CompressedTexture2D/CompressedTexture2D::6916924045383249055::1757784941::1757784944::1::::<><><>0<>0<>c2d74fb3b01087a0903df532148c5fab<>res://.godot/imported/Dead Tree_Bark_DeadTree.png-32448f7973f0bd57a1af3fc6064d80af.s3tc.ctex::
 Dead Tree_Bark_DeadTree_Normal.png::CompressedTexture2D/CompressedTexture2D::13329638305446650::1757784941::1757784944::1::::<><><>0<>0<>3a50d6c7d0f671dd638cfd24bfeb7da5<>res://.godot/imported/Dead Tree_Bark_DeadTree_Normal.png-c308691cc44cb2b36ee748112c8be122.s3tc.ctex::
@@ -9,7 +9,7 @@ Grave.glb::PackedScene/PackedScene::2184261168296387674::1757784672::1757784672:
 Grave_halloweenbits_texture.png::CompressedTexture2D/CompressedTexture2D::2474092129143066196::1757784672::1757784672::1::::<><><>0<>0<>b10da91736c6e6260d761a88cac02fca<>res://.godot/imported/Grave_halloweenbits_texture.png-c5531b13df714718c553b23b0ef077ac.s3tc.ctex::
 icon.webp::CompressedTexture2D/CompressedTexture2D::27118964165343846::1757742182::1757750206::1::::<><><>0<>0<>2765b228073266418cb0e013965e5088<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
 Main.gd::GDScript/GDScript::8123949213996832648::1757742182::0::1::::<>Node<><>0<>0<><>::
-Main.tscn::PackedScene::1946344858681233962::1757826189::0::1::::<><><>0<>0<><>::uid://dn0kiywu3mkq7::::res://Main.gd<>uid://dp478jyugrn7o::::res://Player.tscn<>uid://ha0ar5s2c3m4::::res://Mob.tscn<>uid://cqquurjk1i7yw::::res://ui_theme.tres<>uid://ofhvwth8plpb::::res://ScoreLabel.gd<>uid://cq2xuxr5qgo6f::::res://Wall Modular.glb<>uid://cg0cf14ljrvab::::res://name.tscn<>uid://6ecpyo6iexli::::res://Grave.glb<>uid://vh5gcp0a13aa::::res://Dead Tree.glb
+Main.tscn::PackedScene::1946344858681233962::1757826611::0::1::::<><><>0<>0<><>::uid://dn0kiywu3mkq7::::res://Main.gd<>uid://dp478jyugrn7o::::res://Player.tscn<>uid://ha0ar5s2c3m4::::res://Mob.tscn<>uid://cqquurjk1i7yw::::res://ui_theme.tres<>uid://ofhvwth8plpb::::res://ScoreLabel.gd<>uid://cq2xuxr5qgo6f::::res://Wall Modular.glb<>uid://cg0cf14ljrvab::::res://name.tscn<>uid://6ecpyo6iexli::::res://Grave.glb<>uid://vh5gcp0a13aa::::res://Dead Tree.glb
 Mob.gd::GDScript/GDScript::7291350454852087858::1757742182::0::1::::<>CharacterBody3D<><>0<>0<><>::
 Mob.tscn::PackedScene/PackedScene::492840770380503333::1757784963::0::1::::<><><>0<>0<><>::uid://db48qhcxd4usg::::res://Mob.gd<>uid://dnnrud2y7hfdj::::res://Salamander.glb
 MusicPlayer.tscn::PackedScene/PackedScene::716687642126613565::1757742182::0::1::::<><><>0<>0<><>::uid://c5qpnfga41t4p::::res://art/House In a Forest Loop.ogg
@@ -39,4 +39,4 @@ index.png::CompressedTexture2D/CompressedTexture2D::7997947237604153684::1757789
 ::res://fonts/::1757779880
 LICENSE.txt::TextFile/TextFile::-1::1757742182::0::1::::<><><>0<>0<><>::
 Montserrat-Medium.ttf::FontFile/FontFile::6505293508080888906::1757742182::1757750206::1::::<><><>0<>0<>07233739ee8ed56ec1cb0f04a4ff2983<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
-::res://GameGodot3D/::1757826578
+::res://GameGodot3D/::1757828698
